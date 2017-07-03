@@ -12,4 +12,4 @@ An application built with MySQL, Node, Express, Handlebars and Sequelize ORM. Fo
 4. Sequelize ORM
 5. Handlebars
 
-See deployed app at Heroku https://sequelizedburgerkjwebco.herokuapp.com/burgers
+See deployed app running at Heroku https://sequelizedburgerkjwebco.herokuapp.com/burgers
