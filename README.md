@@ -1,5 +1,5 @@
-# sequelizedBurger
-##Week 15 Homework for The Coding Bootcamp at UCI Extension
+# sequelizedBurger 
+##Week 15 Homework for The Coding Bootcamp at UCI Extension 
 
 ### Overview
 
@@ -11,3 +11,5 @@ An application built with MySQL, Node, Express, Handlebars and Sequelize ORM. Fo
 3. MySQL
 4. Sequelize ORM
 5. Handlebars
+
+See deployed app at Heroku https://sequelizedburgerkjwebco.herokuapp.com/burgers
